@@ -1,0 +1,46 @@
+# Core deep-learning stack
+# Install the PyTorch build that matches your CUDA version if needed:
+# https://pytorch.org/get-started/locally/
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Medical imaging and data processing
+monai>=1.3.0
+nibabel>=5.1.0
+SimpleITK>=2.2.1
+scikit-image>=0.19.3
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Model/backbone utilities
+timm<=1.0.16
+einops>=0.6.0
+yacs>=0.1.8
+batchgenerators>=0.25
+acvl-utils>=0.2
+dynamic-network-architectures @ git+https://github.com/TaWald/dynamic-network-architectures@main
+
+# Experiment utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+loguru>=0.7.0
+requests>=2.28.0
+imageio>=2.31.0
+tifffile>=2023.7.10
+deprecated>=1.2.13
+
+# Optional training/evaluation helpers used by the bundled nnSSL/OpenNeuro code
+blosc2>=3.0.0b1
+dicom2nifti>=2.4.8
+graphviz>=0.20.1
+lightning-bolts>=0.7.0
+lpips>=0.1.4
+pytorch-msssim>=1.0.0
+torchio>=0.19.0
+wandb>=0.15.0
+
+# Install the bundled nnSSL package in editable mode.
+-e ./nnssl-openneuro
