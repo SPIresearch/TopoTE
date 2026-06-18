@@ -46,14 +46,11 @@ TopoTE/
 ├── Models/                          # Local model definitions
 ├── assets/                          # README / paper figures
 │   ├── figure_1.png
-│   └── figure_1.pdf
 ├── nnssl-openneuro/                 # Bundled OpenMind/nnSSL reference codebase
 ├── preprocessed/                    # Dataset conversion and preprocessing scripts
 ├── utils/                           # Metrics, feature loading, ranking, and sampling utilities
 ├── extract_features.py              # Batch checkpoint feature extraction
-├── extract_features_only.py         # Single-model feature extraction
 ├── main_unified_with_classification.py
-├── rank_metrics.py                  # Weighted Kendall and correlation utilities
 ├── run_unified_with_classification_timed.py
 ├── requirements.txt
 └── README.md
