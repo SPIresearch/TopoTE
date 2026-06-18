@@ -1,0 +1,67 @@
+{
+  "layers": [
+    "encoder.stem",
+    "encoder.stages.0",
+    "encoder.stages.1",
+    "encoder.stages.2",
+    "encoder.stages.3",
+    "encoder.stages.4",
+    "encoder.stages.5",
+    "decoder.stages.0",
+    "decoder.stages.1",
+    "decoder.stages.2",
+    "decoder.stages.3",
+    "decoder.stages.4"
+  ],
+  "sample_num": {
+    "encoder.stem": 256,
+    "encoder.stages.0": 256,
+    "encoder.stages.1": 256,
+    "encoder.stages.2": 256,
+    "encoder.stages.3": 256,
+    "encoder.stages.4": 256,
+    "encoder.stages.5": 256,
+    "decoder.stages.0": 256,
+    "decoder.stages.1": 256,
+    "decoder.stages.2": 256,
+    "decoder.stages.3": 256,
+    "decoder.stages.4": 256
+  },
+  "model": {
+    "name": "ResEncL",
+    "num_input_channels": 1,
+    "deep_supervision": true,
+    "decoder_init": {
+      "enabled": true,
+      "type": "he",
+      "seed": 0,
+      "include_seg_head": false,
+      "skip_if_pretrained_decoder": true
+    }
+  },
+  "num_classes": 1,
+  "roi_x": 96,
+  "roi_y": 128,
+  "roi_z": 128,
+  "mean": 108.22927791667446,
+  "std": 165.24628207794353,
+  "sw_batch_size": 2,
+  "window_mode": "gaussian",
+  "infer_overlap": 0.0,
+  "encoder_layers": [
+    "encoder.stem",
+    "encoder.stages.0",
+    "encoder.stages.1",
+    "encoder.stages.2",
+    "encoder.stages.3",
+    "encoder.stages.4",
+    "encoder.stages.5"
+  ],
+  "decoder_layers": [
+    "decoder.stages.0",
+    "decoder.stages.1",
+    "decoder.stages.2",
+    "decoder.stages.3",
+    "decoder.stages.4"
+  ]
+}

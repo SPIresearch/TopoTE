@@ -1,0 +1,1605 @@
+{
+  "val": [
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient001_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient001_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient001_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient001_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient001_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient001_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient001_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient001_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient002_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient002_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient002_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient002_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient002_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient002_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient002_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient002_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient003_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient003_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient003_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient003_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient003_frame15_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient003_frame15.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient003_frame15_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient003_frame15.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient004_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient004_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient004_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient004_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient004_frame15_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient004_frame15.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient004_frame15_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient004_frame15.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient005_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient005_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient005_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient005_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient005_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient005_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient005_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient005_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient006_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient006_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient006_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient006_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient006_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient006_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient006_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient006_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient007_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient007_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient007_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient007_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient007_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient007_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient007_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient007_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient008_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient008_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient008_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient008_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient008_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient008_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient008_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient008_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient009_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient009_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient009_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient009_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient009_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient009_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient009_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient009_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient010_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient010_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient010_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient010_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient010_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient010_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient010_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient010_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient011_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient011_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient011_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient011_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient011_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient011_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient011_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient011_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient012_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient012_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient012_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient012_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient012_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient012_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient012_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient012_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient013_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient013_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient013_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient013_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient013_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient013_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient013_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient013_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient014_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient014_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient014_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient014_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient014_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient014_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient014_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient014_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient015_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient015_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient015_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient015_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient015_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient015_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient015_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient015_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient016_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient016_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient016_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient016_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient016_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient016_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient016_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient016_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient017_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient017_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient017_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient017_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient017_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient017_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient017_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient017_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient018_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient018_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient018_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient018_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient018_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient018_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient018_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient018_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient019_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient019_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient019_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient019_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient019_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient019_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient019_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient019_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient020_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient020_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient020_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient020_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient020_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient020_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient020_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient020_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient021_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient021_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient021_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient021_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient021_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient021_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient021_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient021_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient022_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient022_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient022_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient022_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient022_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient022_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient022_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient022_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient023_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient023_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient023_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient023_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient023_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient023_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient023_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient023_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient024_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient024_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient024_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient024_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient024_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient024_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient024_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient024_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient025_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient025_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient025_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient025_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient025_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient025_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient025_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient025_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient026_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient026_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient026_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient026_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient026_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient026_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient026_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient026_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient027_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient027_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient027_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient027_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient027_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient027_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient027_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient027_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient028_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient028_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient028_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient028_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient028_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient028_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient028_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient028_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient029_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient029_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient029_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient029_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient029_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient029_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient029_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient029_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient030_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient030_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient030_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient030_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient030_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient030_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient030_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient030_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient031_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient031_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient031_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient031_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient031_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient031_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient031_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient031_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient032_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient032_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient032_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient032_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient032_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient032_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient032_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient032_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient033_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient033_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient033_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient033_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient033_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient033_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient033_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient033_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient034_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient034_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient034_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient034_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient034_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient034_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient034_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient034_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient035_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient035_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient035_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient035_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient035_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient035_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient035_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient035_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient036_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient036_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient036_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient036_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient036_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient036_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient036_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient036_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient037_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient037_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient037_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient037_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient037_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient037_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient037_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient037_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient038_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient038_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient038_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient038_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient038_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient038_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient038_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient038_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient039_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient039_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient039_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient039_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient039_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient039_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient039_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient039_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient040_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient040_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient040_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient040_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient040_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient040_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient040_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient040_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient041_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient041_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient041_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient041_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient041_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient041_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient041_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient041_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient042_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient042_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient042_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient042_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient042_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient042_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient042_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient042_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient043_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient043_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient043_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient043_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient043_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient043_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient043_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient043_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient044_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient044_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient044_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient044_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient044_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient044_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient044_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient044_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient045_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient045_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient045_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient045_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient045_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient045_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient045_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient045_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient046_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient046_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient046_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient046_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient046_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient046_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient046_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient046_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient047_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient047_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient047_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient047_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient047_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient047_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient047_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient047_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient048_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient048_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient048_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient048_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient048_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient048_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient048_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient048_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient049_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient049_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient049_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient049_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient049_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient049_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient049_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient049_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient050_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient050_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient050_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient050_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient050_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient050_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient050_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient050_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient051_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient051_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient051_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient051_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient051_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient051_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient051_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient051_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient052_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient052_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient052_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient052_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient052_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient052_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient052_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient052_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient053_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient053_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient053_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient053_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient053_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient053_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient053_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient053_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient054_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient054_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient054_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient054_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient054_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient054_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient054_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient054_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient055_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient055_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient055_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient055_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient055_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient055_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient055_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient055_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient056_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient056_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient056_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient056_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient056_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient056_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient056_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient056_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient057_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient057_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient057_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient057_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient057_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient057_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient057_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient057_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient058_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient058_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient058_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient058_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient058_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient058_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient058_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient058_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient059_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient059_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient059_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient059_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient059_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient059_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient059_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient059_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient060_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient060_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient060_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient060_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient060_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient060_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient060_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient060_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient061_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient061_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient061_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient061_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient061_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient061_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient061_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient061_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient062_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient062_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient062_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient062_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient062_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient062_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient062_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient062_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient063_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient063_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient063_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient063_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient063_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient063_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient063_frame16_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient063_frame16.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient064_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient064_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient064_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient064_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient064_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient064_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient064_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient064_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient065_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient065_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient065_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient065_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient065_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient065_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient065_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient065_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient066_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient066_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient066_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient066_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient066_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient066_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient066_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient066_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient067_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient067_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient067_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient067_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient067_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient067_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient067_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient067_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient068_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient068_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient068_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient068_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient068_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient068_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient068_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient068_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient069_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient069_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient069_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient069_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient069_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient069_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient069_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient069_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient070_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient070_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient070_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient070_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient070_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient070_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient070_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient070_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient071_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient071_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient071_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient071_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient071_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient071_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient071_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient071_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient072_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient072_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient072_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient072_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient072_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient072_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient072_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient072_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient073_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient073_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient073_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient073_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient073_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient073_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient073_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient073_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient074_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient074_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient074_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient074_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient074_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient074_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient074_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient074_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient075_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient075_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient075_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient075_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient075_frame06_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient075_frame06.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient075_frame06_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient075_frame06.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient076_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient076_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient076_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient076_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient076_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient076_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient076_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient076_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient077_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient077_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient077_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient077_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient077_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient077_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient077_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient077_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient078_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient078_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient078_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient078_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient078_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient078_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient078_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient078_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient079_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient079_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient079_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient079_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient079_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient079_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient079_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient079_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient080_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient080_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient080_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient080_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient080_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient080_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient080_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient080_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient081_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient081_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient081_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient081_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient081_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient081_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient081_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient081_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient082_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient082_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient082_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient082_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient082_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient082_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient082_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient082_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient083_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient083_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient083_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient083_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient083_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient083_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient083_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient083_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient084_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient084_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient084_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient084_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient084_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient084_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient084_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient084_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient085_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient085_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient085_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient085_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient085_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient085_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient085_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient085_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient086_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient086_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient086_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient086_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient086_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient086_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient086_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient086_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient087_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient087_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient087_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient087_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient087_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient087_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient087_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient087_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient088_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient088_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient088_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient088_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient088_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient088_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient088_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient088_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient089_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient089_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient089_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient089_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient089_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient089_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient089_frame10_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient089_frame10.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient090_frame04_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient090_frame04.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient090_frame04_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient090_frame04.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient090_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient090_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient090_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient090_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient091_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient091_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient091_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient091_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient091_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient091_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient091_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient091_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient092_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient092_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient092_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient092_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient092_frame06_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient092_frame06.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient092_frame06_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient092_frame06.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient093_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient093_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient093_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient093_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient093_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient093_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient093_frame14_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient093_frame14.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient094_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient094_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient094_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient094_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient094_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient094_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient094_frame07_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient094_frame07.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient095_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient095_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient095_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient095_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient095_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient095_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient095_frame12_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient095_frame12.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient096_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient096_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient096_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient096_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient096_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient096_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient096_frame08_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient096_frame08.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient097_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient097_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient097_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient097_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient097_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient097_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient097_frame11_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient097_frame11.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient098_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient098_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient098_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient098_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient098_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient098_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient098_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient098_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient099_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient099_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient099_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient099_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient099_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient099_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient099_frame09_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient099_frame09.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient100_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient100_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient100_frame01_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient100_frame01.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient100_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient100_frame13.nii.gz"
+    },
+    {
+      "data": "nnUNet_raw\\Dataset004_ACDC_Heart\\imagesTr\\ACDC_patient100_frame13_0000.nii.gz",
+      "seg": "nnUNet_raw\\Dataset004_ACDC_Heart\\labelsTr\\ACDC_patient100_frame13.nii.gz"
+    }
+  ],
+  "fold_id": 0
+}

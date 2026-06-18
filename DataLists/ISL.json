@@ -1,0 +1,1754 @@
+{
+  "val": [
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0001_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0001_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0001_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0001_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0001_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0001_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0003_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0003_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0003_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0004_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0004_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0004_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0005_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0005_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0005_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0006_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0006_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0006_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0007_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0007_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0007_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0008_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0008_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0008_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0009_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0009_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0009_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0010_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0010_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0010_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0011_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0011_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0011_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0012_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0012_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0012_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0013_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0013_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0013_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0014_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0014_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0014_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0015_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0015_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0015_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0016_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0016_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0016_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0017_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0017_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0017_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0018_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0018_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0018_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0019_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0019_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0019_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0010_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0010_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0010_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0011_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0011_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0011_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0012_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0012_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0012_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0013_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0013_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0013_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0014_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0014_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0014_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0015_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0015_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0015_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0016_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0016_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0016_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0017_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0017_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0017_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0018_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0018_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0018_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0019_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0019_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0019_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0030_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0030_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0030_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0031_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0031_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0031_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0032_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0032_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0032_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0033_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0033_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0033_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0034_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0034_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0034_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0035_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0035_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0035_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0036_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0036_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0036_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0037_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0037_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0037_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0038_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0038_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0038_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0039_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0039_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0039_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0040_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0040_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0040_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0041_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0041_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0041_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0042_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0042_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0042_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0043_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0043_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0043_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0044_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0044_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0044_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0045_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0045_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0045_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0046_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0046_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0046_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0047_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0047_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0047_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0048_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0048_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0048_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0049_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0049_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0049_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0050_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0050_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0050_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0051_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0051_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0051_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0052_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0052_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0052_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0053_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0053_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0053_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0054_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0054_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0054_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0055_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0055_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0055_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0056_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0056_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0056_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0057_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0057_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0057_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0058_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0058_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0058_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0059_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0059_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0059_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0060_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0060_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0060_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0061_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0061_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0061_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0062_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0062_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0062_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0063_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0063_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0063_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0064_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0064_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0064_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0065_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0065_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0065_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0066_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0066_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0066_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0067_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0067_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0067_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0068_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0068_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0068_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0069_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0069_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0069_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0070_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0070_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0070_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0071_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0071_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0071_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0072_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0072_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0072_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0073_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0073_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0073_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0074_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0074_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0074_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0075_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0075_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0075_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0076_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0076_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0076_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0077_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0077_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0077_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0078_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0078_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0078_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0079_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0079_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0079_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0080_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0080_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0080_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0081_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0081_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0081_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0082_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0082_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0082_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0083_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0083_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0083_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0084_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0084_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0084_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0085_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0085_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0085_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0086_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0086_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0086_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0087_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0087_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0087_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0088_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0088_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0088_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0089_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0089_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0089_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0090_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0090_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0090_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0091_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0091_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0091_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0092_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0092_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0092_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0093_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0093_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0093_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0094_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0094_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0094_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0095_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0095_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0095_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0096_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0096_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0096_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0097_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0097_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0097_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0098_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0098_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0098_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0099_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0099_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0099_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0100_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0100_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0100_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0101_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0101_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0101_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0102_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0102_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0102_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0103_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0103_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0103_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0104_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0104_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0104_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0105_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0105_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0105_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0106_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0106_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0106_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0107_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0107_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0107_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0108_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0108_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0108_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0109_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0109_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0109_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0110_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0110_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0110_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0111_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0111_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0111_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0112_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0112_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0112_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0113_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0113_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0113_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0114_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0114_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0114_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0115_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0115_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0115_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0116_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0116_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0116_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0117_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0117_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0117_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0118_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0118_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0118_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0119_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0119_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0119_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0120_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0120_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0120_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0121_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0121_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0121_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0122_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0122_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0122_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0123_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0123_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0123_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0124_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0124_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0124_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0125_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0125_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0125_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0126_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0126_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0126_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0127_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0127_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0127_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0128_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0128_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0128_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0129_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0129_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0129_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0130_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0130_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0130_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0131_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0131_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0131_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0132_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0132_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0132_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0133_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0133_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0133_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0134_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0134_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0134_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0135_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0135_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0135_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0136_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0136_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0136_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0137_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0137_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0137_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0138_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0138_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0138_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0139_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0139_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0139_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0140_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0140_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0140_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0141_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0141_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0141_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0142_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0142_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0142_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0143_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0143_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0143_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0144_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0144_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0144_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0145_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0145_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0145_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0146_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0146_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0146_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0147_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0147_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0147_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0148_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0148_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0148_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0149_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0149_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0149_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0150_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0150_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0150_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0151_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0151_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0151_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0152_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0152_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0152_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0153_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0153_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0153_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0154_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0154_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0154_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0155_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0155_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0155_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0156_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0156_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0156_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0157_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0157_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0157_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0158_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0158_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0158_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0159_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0159_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0159_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0160_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0160_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0160_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0161_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0161_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0161_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0162_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0162_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0162_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0163_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0163_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0163_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0164_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0164_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0164_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0165_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0165_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0165_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0166_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0166_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0166_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0167_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0167_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0167_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0168_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0168_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0168_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0169_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0169_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0169_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0170_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0170_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0170_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0171_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0171_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0171_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0172_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0172_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0172_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0173_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0173_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0173_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0174_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0174_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0174_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0175_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0175_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0175_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0176_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0176_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0176_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0177_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0177_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0177_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0178_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0178_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0178_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0179_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0179_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0179_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0180_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0180_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0180_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0181_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0181_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0181_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0182_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0182_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0182_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0183_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0183_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0183_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0184_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0184_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0184_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0185_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0185_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0185_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0186_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0186_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0186_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0187_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0187_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0187_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0188_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0188_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0188_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0189_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0189_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0189_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0190_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0190_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0190_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0191_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0191_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0191_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0192_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0192_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0192_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0193_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0193_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0193_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0194_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0194_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0194_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0195_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0195_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0195_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0196_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0196_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0196_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0197_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0197_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0197_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0198_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0198_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0198_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0199_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0199_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0199_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0200_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0200_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0200_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0201_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0201_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0201_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0202_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0202_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0202_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0203_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0203_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0203_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0204_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0204_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0204_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0205_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0205_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0205_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0206_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0206_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0206_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0207_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0207_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0207_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0208_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0208_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0208_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0209_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0209_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0209_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0210_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0210_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0210_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0211_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0211_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0211_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0212_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0212_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0212_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0213_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0213_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0213_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0214_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0214_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0214_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0215_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0215_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0215_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0216_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0216_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0216_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0217_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0217_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0217_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0218_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0218_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0218_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0219_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0219_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0219_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0220_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0220_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0220_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0221_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0221_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0221_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0222_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0222_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0222_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0223_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0223_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0223_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0224_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0224_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0224_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0225_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0225_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0225_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0226_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0226_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0226_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0227_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0227_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0227_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0228_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0228_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0228_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0229_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0229_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0229_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0230_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0230_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0230_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0231_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0231_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0231_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0232_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0232_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0232_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0233_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0233_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0233_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0234_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0234_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0234_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0235_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0235_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0235_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0236_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0236_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0236_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0237_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0237_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0237_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0238_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0238_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0238_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0239_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0239_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0239_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0240_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0240_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0240_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0241_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0241_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0241_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0242_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0242_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0242_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0243_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0243_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0243_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0244_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0244_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0244_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0245_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0245_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0245_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0246_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0246_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0246_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0247_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0247_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0247_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0248_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0248_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0248_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0249_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0249_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0249_ses-0001.nii.gz"
+    },
+    {
+      "data": [
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0250_ses-0001_0000.nii.gz",
+        "nnUNet_raw/Dataset001_ISLES2022_DWIADC/imagesTr/sub-strokecase0250_ses-0001_0001.nii.gz"
+      ],
+      "seg": "nnUNet_raw/Dataset001_ISLES2022_DWIADC/labelsTr/sub-strokecase0250_ses-0001.nii.gz"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dataset": "KiTS19",
+  "num_input_channels": 1,
+  "num_classes": 2,
+  "roi_z": 96,
+  "roi_y": 128,
+  "roi_x": 128,
+  "infer_overlap": 0.0,
+  "window_mode": "constant",
+  "sw_batch_size": 2,
+  "model": {
+    "name": "ResEncL",
+    "num_input_channels": 1,
+    "decoder_init": {
+      "enabled": true,
+      "type": "he",
+      "seed": 0,
+      "include_seg_head": false,
+      "skip_if_pretrained_decoder": true
+    }
+  },
+  "layers": [
+    "encoder.stem",
+    "encoder.stages.0",
+    "encoder.stages.1",
+    "encoder.stages.2",
+    "encoder.stages.3",
+    "encoder.stages.4",
+    "encoder.stages.5",
+    "decoder.stages.0",
+    "decoder.stages.1",
+    "decoder.stages.2",
+    "decoder.stages.3",
+    "decoder.stages.4"
+  ],
+  "sample_num": {
+    "encoder.stem": 256,
+    "encoder.stages.0": 256,
+    "encoder.stages.1": 256,
+    "encoder.stages.2": 256,
+    "encoder.stages.3": 256,
+    "encoder.stages.4": 256,
+    "encoder.stages.5": 256,
+    "decoder.stages.0": 256,
+    "decoder.stages.1": 256,
+    "decoder.stages.2": 256,
+    "decoder.stages.3": 256,
+    "decoder.stages.4": 256
+  },
+  "encoder_layers": [
+    "encoder.stem",
+    "encoder.stages.0",
+    "encoder.stages.1",
+    "encoder.stages.2",
+    "encoder.stages.3",
+    "encoder.stages.4",
+    "encoder.stages.5"
+  ],
+  "decoder_layers": [
+    "decoder.stages.0",
+    "decoder.stages.1",
+    "decoder.stages.2",
+    "decoder.stages.3",
+    "decoder.stages.4"
+  ],
+  "feature_source": "pkl",
+  "pkl_root": "output/features",
+  "pkl_dataset": "KIT",
+  "encdec_last_k": 5
+}

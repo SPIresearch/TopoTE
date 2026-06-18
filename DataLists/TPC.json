@@ -1,0 +1,1005 @@
+{
+  "val": [
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_001_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_001.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_002_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_002.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_003_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_003.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_004_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_004.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_005_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_005.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_006_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_006.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_007_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_007.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_008_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_008.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_009_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_009.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_010_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_010.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_011_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_011.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_012_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_012.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_013_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_013.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_014_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_014.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_015_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_015.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_016_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_016.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_017_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_017.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_018_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_018.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_019_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_019.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_020_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_020.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_021_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_021.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_022_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_022.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_023_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_023.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_024_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_024.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_025_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_025.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_026_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_026.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_027_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_027.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_028_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_028.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_029_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_029.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_030_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_030.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_031_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_031.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_032_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_032.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_033_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_033.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_034_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_034.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_035_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_035.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_036_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_036.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_037_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_037.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_038_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_038.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_039_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_039.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_040_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_040.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_041_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_041.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_042_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_042.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_043_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_043.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_044_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_044.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_045_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_045.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_046_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_046.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_047_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_047.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_048_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_048.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_049_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_049.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_050_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_050.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_051_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_051.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_052_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_052.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_053_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_053.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_054_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_054.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_055_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_055.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_056_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_056.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_057_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_057.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_058_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_058.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_059_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_059.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_060_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_060.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_061_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_061.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_062_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_062.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_063_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_063.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_064_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_064.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_065_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_065.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_066_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_066.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_067_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_067.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_068_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_068.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_069_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_069.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_070_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_070.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_071_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_071.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_072_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_072.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_073_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_073.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_074_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_074.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_075_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_075.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_076_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_076.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_077_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_077.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_078_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_078.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_079_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_079.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_080_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_080.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_081_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_081.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_082_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_082.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_083_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_083.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_084_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_084.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_085_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_085.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_086_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_086.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_087_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_087.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_088_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_088.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_089_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_089.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_090_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_090.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_131_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_131.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_132_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_132.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_133_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_133.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_134_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_134.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_135_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_135.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_136_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_136.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_137_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_137.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_138_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_138.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_139_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_139.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_140_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_140.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_141_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_141.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_142_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_142.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_143_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_143.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_144_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_144.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_145_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_145.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_146_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_146.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_147_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_147.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_148_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_148.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_149_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_149.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_150_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_150.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_151_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_151.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_152_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_152.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_153_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_153.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_154_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_154.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_155_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_155.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_156_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_156.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_157_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_157.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_158_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_158.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_159_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_159.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_160_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_160.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_161_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_161.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_162_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_162.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_163_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_163.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_164_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_164.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_ct_165_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_ct_165.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_001_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_001.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_002_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_002.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_003_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_003.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_004_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_004.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_005_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_005.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_006_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_006.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_007_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_007.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_008_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_008.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_009_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_009.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_010_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_010.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_011_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_011.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_012_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_012.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_013_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_013.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_014_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_014.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_015_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_015.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_016_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_016.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_017_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_017.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_018_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_018.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_019_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_019.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_020_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_020.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_021_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_021.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_022_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_022.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_023_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_023.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_024_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_024.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_025_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_025.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_026_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_026.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_027_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_027.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_028_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_028.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_029_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_029.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_030_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_030.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_031_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_031.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_032_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_032.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_033_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_033.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_034_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_034.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_035_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_035.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_036_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_036.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_037_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_037.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_038_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_038.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_039_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_039.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_040_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_040.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_041_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_041.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_042_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_042.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_043_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_043.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_044_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_044.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_045_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_045.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_046_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_046.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_047_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_047.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_048_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_048.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_049_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_049.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_050_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_050.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_051_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_051.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_052_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_052.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_053_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_053.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_054_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_054.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_055_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_055.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_056_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_056.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_057_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_057.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_058_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_058.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_059_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_059.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_060_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_060.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_061_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_061.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_062_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_062.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_063_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_063.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_064_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_064.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_065_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_065.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_066_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_066.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_067_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_067.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_068_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_068.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_069_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_069.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_070_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_070.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_071_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_071.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_072_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_072.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_073_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_073.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_074_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_074.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_075_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_075.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_076_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_076.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_077_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_077.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_078_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_078.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_079_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_079.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_080_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_080.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_081_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_081.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_082_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_082.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_083_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_083.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_084_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_084.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_085_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_085.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_086_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_086.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_087_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_087.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_088_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_088.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_089_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_089.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_090_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_090.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_131_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_131.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_132_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_132.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_133_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_133.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_134_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_134.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_135_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_135.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_136_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_136.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_137_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_137.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_138_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_138.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_139_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_139.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_140_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_140.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_141_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_141.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_142_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_142.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_143_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_143.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_144_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_144.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_145_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_145.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_146_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_146.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_147_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_147.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_148_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_148.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_149_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_149.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_150_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_150.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_151_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_151.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_152_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_152.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_153_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_153.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_154_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_154.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_155_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_155.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_156_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_156.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_157_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_157.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_158_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_158.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_159_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_159.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_160_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_160.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_161_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_161.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_162_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_162.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_163_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_163.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_164_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_164.nii.gz"
+    },
+    {
+      "data": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/imagesTr/topcow_mr_165_0000.nii.gz",
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset007_TPC/labelsTr/topcow_mr_165.nii.gz"
+    }
+  ],
+  "fold_id": 0
+}

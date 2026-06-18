@@ -1,0 +1,2004 @@
+{
+  "val": [
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00086_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00086_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00086_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00086_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00086_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00086_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00089_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00089_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00089_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00089_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00089_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00089_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00090_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00090_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00090_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00090_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00090_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00090_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00096_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00096_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00096_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00096_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00096_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00096_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00097_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00097_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00097_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00097_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00097_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00097_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00098_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00098_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00098_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00098_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00098_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00098_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00100_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00100_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00100_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00100_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00100_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00100_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00102_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00102_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00102_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00102_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00102_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00102_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00104_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00104_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00104_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00104_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00104_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00104_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00105_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00105_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00105_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00105_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00105_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00105_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00106_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00106_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00106_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00106_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00106_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00106_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00107_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00107_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00107_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00107_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00107_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00107_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00108_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00108_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00108_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00108_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00108_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00108_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00109_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00109_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00109_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00109_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00109_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00109_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00110_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00110_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00110_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00110_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00110_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00110_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00111_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00111_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00111_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00111_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00111_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00111_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00112_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00112_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00112_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00112_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00112_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00112_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00113_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00113_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00113_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00113_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00113_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00113_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00114_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00114_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00114_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00114_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00114_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00114_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00115_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00115_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00115_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00115_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00115_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00115_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00116_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00116_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00116_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00116_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00116_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00116_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00117_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00117_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00117_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00117_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00117_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00117_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00118_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00118_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00118_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00118_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00118_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00118_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00119_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00119_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00119_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00119_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00119_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00119_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00120_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00120_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00120_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00120_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00120_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00120_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00121_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00121_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00121_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00121_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00121_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00121_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00122_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00122_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00122_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00122_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00122_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00122_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00123_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00123_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00123_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00123_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00123_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00123_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00124_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00124_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00124_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00124_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00124_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00124_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00125_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00125_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00125_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00125_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00125_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00125_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00126_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00126_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00126_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00126_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00126_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00126_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00127_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00127_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00127_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00127_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00127_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00127_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00128_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00128_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00128_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00128_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00128_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00128_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00129_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00129_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00129_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00129_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00129_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00129_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00130_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00130_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00130_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00130_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00130_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00130_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00131_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00131_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00131_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00131_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00131_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00131_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00132_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00132_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00132_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00132_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00132_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00132_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00133_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00133_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00133_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00133_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00133_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00133_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00134_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00134_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00134_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00134_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00134_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00134_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00135_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00135_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00135_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00135_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00135_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00135_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00136_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00136_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00136_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00136_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00136_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00136_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00137_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00137_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00137_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00137_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00137_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00137_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00138_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00138_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00138_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00138_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00138_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00138_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00139_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00139_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00139_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00139_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00139_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00139_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00140_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00140_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00140_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00140_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00140_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00140_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00141_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00141_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00141_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00141_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00141_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00141_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00142_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00142_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00142_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00142_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00142_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00142_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00143_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00143_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00143_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00143_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00143_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00143_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00144_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00144_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00144_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00144_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00144_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00144_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00145_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00145_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00145_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00145_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00145_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00145_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00147_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00147_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00147_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00147_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00147_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00147_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00148_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00148_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00148_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00148_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00148_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00148_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00149_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00149_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00149_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00149_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00149_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00149_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00150_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00150_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00150_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00150_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00150_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00150_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00151_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00151_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00151_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00151_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00151_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00151_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00152_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00152_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00152_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00152_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00152_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00152_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00153_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00153_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00153_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00153_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00153_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00153_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00154_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00154_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00154_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00154_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00154_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00154_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00155_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00155_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00155_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00155_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00155_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00155_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00156_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00156_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00156_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00156_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00156_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00156_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00157_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00157_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00157_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00157_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00157_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00157_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00158_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00158_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00158_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00158_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00158_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00158_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00159_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00159_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00159_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00159_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00159_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00159_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00160_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00160_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00160_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00160_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00160_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00160_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00161_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00161_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00161_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00161_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00161_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00161_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00162_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00162_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00162_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00162_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00162_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00162_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00163_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00163_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00163_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00163_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00163_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00163_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00164_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00164_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00164_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00164_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00164_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00164_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00165_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00165_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00165_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00165_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00165_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00165_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00166_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00166_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00166_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00166_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00166_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00166_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00167_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00167_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00167_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00167_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00167_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00167_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00169_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00169_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00169_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00169_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00169_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00169_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00170_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00170_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00170_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00170_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00170_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00170_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00171_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00171_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00171_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00171_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00171_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00171_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00172_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00172_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00172_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00172_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00172_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00172_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00173_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00173_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00173_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00173_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00173_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00173_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00174_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00174_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00174_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00174_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00174_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00174_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00175_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00175_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00175_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00175_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00175_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00175_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00176_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00176_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00176_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00176_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00176_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00176_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00177_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00177_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00177_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00177_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00177_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00177_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00178_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00178_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00178_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00178_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00178_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00178_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00179_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00179_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00179_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00179_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00179_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00179_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00180_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00180_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00180_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00180_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00180_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00180_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00181_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00181_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00181_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00181_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00181_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00181_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00182_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00182_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00182_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00182_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00182_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00182_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00183_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00183_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00183_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00183_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00183_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00183_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00184_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00184_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00184_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00184_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00184_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00184_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00185_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00185_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00185_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00185_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00185_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00185_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00187_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00187_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00187_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00187_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00187_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00187_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00188_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00188_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00188_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00188_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00188_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00188_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00189_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00189_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00189_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00189_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00189_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00189_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00190_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00190_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00190_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00190_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00190_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00190_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00191_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00191_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00191_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00191_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00191_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00191_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00192_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00192_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00192_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00192_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00192_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00192_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00193_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00193_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00193_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00193_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00193_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00193_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00194_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00194_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00194_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00194_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00194_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00194_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00195_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00195_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00195_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00195_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00195_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00195_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00196_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00196_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00196_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00196_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00196_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00196_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00197_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00197_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00197_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00197_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00197_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00197_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00198_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00198_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00198_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00198_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00198_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00198_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00199_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00199_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00199_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00199_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00199_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00199_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00200_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00200_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00200_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00200_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00200_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00200_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00201_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00201_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00201_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00201_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00201_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00201_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00202_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00202_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00202_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00202_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00202_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00202_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00203_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00203_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00203_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00203_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00203_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00203_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00204_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00204_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00204_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00204_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00204_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00204_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00205_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00205_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00205_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00205_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00205_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00205_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00206_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00206_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00206_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00206_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00206_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00206_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00207_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00207_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00207_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00207_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00207_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00207_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00208_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00208_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00208_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00208_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00208_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00208_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00209_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00209_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00209_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00209_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00209_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00209_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00210_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00210_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00210_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00210_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00210_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00210_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00211_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00211_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00211_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00211_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00211_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00211_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00212_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00212_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00212_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00212_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00212_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00212_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00213_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00213_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00213_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00213_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00213_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00213_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00214_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00214_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00214_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00214_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00214_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00214_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00215_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00215_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00215_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00215_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00215_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00215_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00216_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00216_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00216_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00216_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00216_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00216_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00217_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00217_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00217_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00217_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00217_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00217_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00219_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00219_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00219_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00219_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00219_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00219_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00220_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00220_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00220_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00220_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00220_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00220_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00221_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00221_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00221_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00221_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00221_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00221_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00222_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00222_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00222_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00222_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00222_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00222_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00223_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00223_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00223_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00223_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00223_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00223_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00224_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00224_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00224_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00224_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00224_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00224_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00225_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00225_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00225_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00225_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00225_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00225_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00226_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00226_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00226_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00226_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00226_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00226_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00227_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00227_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00227_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00227_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00227_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00227_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00229_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00229_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00229_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00229_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00229_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00229_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00230_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00230_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00230_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00230_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00230_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00230_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00231_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00231_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00231_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00231_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00231_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00231_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00232_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00232_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00232_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00232_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00232_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00232_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00233_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00233_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00233_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00233_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00233_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00233_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00234_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00234_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00234_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00234_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00234_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00234_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00235_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00235_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00235_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00235_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00235_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00235_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00237_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00237_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00237_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00237_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00237_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00237_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00238_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00238_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00238_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00238_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00238_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00238_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00239_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00239_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00239_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00239_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00239_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00239_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00240_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00240_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00240_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00240_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00240_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00240_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00241_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00241_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00241_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00241_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00241_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00241_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00242_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00242_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00242_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00242_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00242_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00242_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00243_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00243_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00243_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00243_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00243_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00243_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00244_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00244_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00244_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00244_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00244_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00244_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00245_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00245_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00245_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00245_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00245_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00245_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00247_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00247_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00247_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00247_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00247_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00247_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00248_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00248_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00248_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00248_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00248_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00248_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00249_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00249_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00249_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00249_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00249_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00249_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00250_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00250_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00250_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00250_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00250_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00250_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00251_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00251_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00251_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00251_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00251_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00251_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00252_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00252_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00252_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00252_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00252_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00252_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00253_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00253_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00253_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00253_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00253_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00253_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00254_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00254_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00254_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00254_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00254_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00254_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00255_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00255_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00255_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00255_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00255_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00255_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00256_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00256_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00256_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00256_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00256_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00256_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00258_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00258_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00258_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00258_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00258_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00258_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00260_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00260_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00260_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00260_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00260_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00260_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00262_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00262_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00262_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00262_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00262_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00262_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00263_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00263_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00263_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00263_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00263_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00263_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00264_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00264_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00264_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00264_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00264_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00264_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00266_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00266_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00266_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00266_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00266_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00266_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00267_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00267_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00267_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00267_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00267_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00267_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00268_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00268_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00268_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00268_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00268_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00268_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00269_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00269_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00269_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00269_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00269_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00269_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00270_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00270_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00270_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00270_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00270_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00270_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00271_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00271_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00271_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00271_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00271_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00271_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00272_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00272_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00272_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00272_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00272_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00272_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00273_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00273_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00273_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00273_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00273_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00273_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00274_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00274_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00274_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00274_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00274_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00274_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00275_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00275_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00275_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00275_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00275_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00275_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00276_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00276_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00276_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00276_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00276_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00276_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00277_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00277_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00277_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00277_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00277_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00277_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00278_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00278_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00278_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00278_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00278_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00278_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00280_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00280_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00280_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00280_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00280_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00280_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00281_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00281_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00281_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00281_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00281_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00281_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00282_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00282_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00282_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00282_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00282_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00282_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00283_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00283_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00283_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00283_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00283_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00283_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00284_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00284_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00284_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00284_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00284_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00284_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00285_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00285_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00285_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00285_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00285_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00285_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00286_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00286_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00286_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00286_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00286_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00286_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00288_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00288_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00288_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00288_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00288_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00288_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00289_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00289_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00289_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00289_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00289_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00289_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00290_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00290_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00290_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00290_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00290_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00290_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00291_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00291_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00291_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00291_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00291_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00291_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00292_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00292_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00292_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00292_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00292_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00292_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00293_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00293_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00293_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00293_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00293_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00293_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00294_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00294_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00294_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00294_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00294_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00294_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00295_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00295_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00295_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00295_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00295_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00295_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00296_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00296_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00296_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00296_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00296_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00296_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00298_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00298_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00298_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00298_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00298_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00298_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00299_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00299_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00299_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00299_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00299_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00299_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00300_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00300_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00300_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00300_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00300_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00300_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00301_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00301_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00301_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00301_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00301_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00301_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00302_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00302_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00302_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00302_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00302_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00302_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00303_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00303_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00303_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00303_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00303_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00303_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00304_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00304_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00304_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00304_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00304_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00304_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00305_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00305_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00305_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00305_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00305_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00305_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00306_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00306_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00306_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00306_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00306_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00306_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00307_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00307_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00307_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00307_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00307_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00307_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00309_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00309_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00309_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00309_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00309_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00309_000"
+    },
+    {
+      "data": [
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00310_000_0000.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00310_000_0001.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00310_000_0002.nii.gz",
+        "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/imagesTr/YBM_BraTS_MET_00310_000_0003.nii.gz"
+      ],
+      "seg": "/root/autodl-tmp/CCFV-main/nnUNet_raw/Dataset010_YBM_BrainMet_Labeled/labelsTr/YBM_BraTS_MET_00310_000.nii.gz",
+      "case_id": "YBM_BraTS_MET_00310_000"
+    }
+  ]
+}
