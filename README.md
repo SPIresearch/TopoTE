@@ -45,8 +45,6 @@ TopoTE/
 ├── DataLists/                       # Dataset list JSON files
 ├── Models/                          # Local model definitions
 ├── assets/                          # README / paper figures
-│   ├── figure_1.png
-├── nnssl-openneuro/                 # Bundled OpenMind/nnSSL reference codebase
 ├── preprocessed/                    # Dataset conversion and preprocessing scripts
 ├── utils/                           # Metrics, feature loading, ranking, and sampling utilities
 ├── extract_features.py              # Batch checkpoint feature extraction
@@ -187,13 +185,6 @@ python preprocessed/prepare_MS_FLAIR_to_nnunet.py \
   --ccfv_root /path/to/TopoTE \
   --dataset_id 11
 ```
-
-## Notes
-
-- Large datasets, checkpoints, extracted features, and result CSVs are intentionally not included in this repository archive.
-- The codebase has been cleaned so Python source files no longer contain Chinese comments. Runtime messages and CLI help strings have also been converted to English for consistency.
-- `requirements.txt` is the standard dependency file. A duplicate `requirement.txt` is included for compatibility with the requested filename.
-- The bundled `nnssl-openneuro/` directory is kept as an OpenMind/nnSSL reference dependency. Please follow its original license and citation requirements when using it.
 
 ## Acknowledgement
 
